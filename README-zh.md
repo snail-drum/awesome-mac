@@ -55,7 +55,6 @@ Awesome Mac
 - [浏览器](#浏览器)
 - [翻译工具](#翻译工具)
 - [安全工具](#安全工具)
-- [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
   - [剪贴板工具](#剪贴板工具)
   - [菜单栏工具](#菜单栏工具)
@@ -708,32 +707,6 @@ Awesome Mac
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 验证文件的加密签名可以推断其来源或可信度。
-
-## 科学上网
-
-*假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
-
-* [Algo](https://github.com/trailofbits/algo) - 在云中设置个人 IPSEC VPN。 [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
-* [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 的一款支持规则过滤的科学上网工具。 [![Open-Source Software][OSS Icon]](https://github.com/yichengchen/clashX)![Freeware][Freeware Icon]
-* [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - 永不过期 Mac 免费VPN。 ![Freeware][Freeware Icon]
-* [Firefly 萤火虫](https://github.com/yinghuocho/firefly-proxy) - 免费科学上网。
-* [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取 500M 流量。![Freeware][Freeware Icon]
-* [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得 2 小时免费VPN加速。![Freeware][Freeware Icon]
-* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
-* [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
-* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
-* [Surge](https://nssurge.com/) - 科学上网。
-* [Shimo](https://www.shimovpn.com/) - 连接大量 VPN 的应用
-* [Tunnelbear](https://www.tunnelbear.com) - 简单的私人 VPN。 ![Freeware][Freeware Icon]
-* [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN 的免费软件。![Freeware][Freeware Icon]
-* [tinc](https://www.tinc-vpn.org) - VPN 软件. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
-* [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
-* [V2rayU](https://github.com/yanue/V2rayU) - 一款 v2ray 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/yanue/V2rayU) ![Freeware][Freeware Icon]
-* [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费 VPN 账号。![Freeware][Freeware Icon]
-* [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费 VPN 加速服务。![Freeware][Freeware Icon]
-
 
 ## 其它实用工具
 
